@@ -17,6 +17,7 @@ dependencies {
   compile 'log4j:log4j:1.2.17'
 }
 
+// maintain the resource section in the packaging
 sourceSets {
   main {
     resources {
