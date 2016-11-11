@@ -27,6 +27,7 @@ sourceSets {
   }
 }
 
+// the jar file
 jar {
   manifest {
     attributes 'Main-Class' : 'Moto'
