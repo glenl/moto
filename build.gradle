@@ -4,6 +4,7 @@ apply plugin: 'application'
 
 mainClassName = 'Moto'
 
+// using simple repositories
 repositories {
   mavenLocal()
   mavenCentral()
