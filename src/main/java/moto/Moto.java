@@ -1,3 +1,4 @@
+// contains main entry point
 import java.io.File;
 import java.io.IOException;
 import joptsimple.OptionParser;
