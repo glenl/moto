@@ -1,4 +1,4 @@
-// build script for moto
+// build script for moto application
 apply plugin: 'java'
 apply plugin: 'application'
 
